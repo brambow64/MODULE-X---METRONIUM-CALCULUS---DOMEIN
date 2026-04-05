@@ -1,7 +1,7 @@
 import sys
 from pathlib import Path
 
-PROJECT_DIR = Path(__file__).resolve().parent / "module_x_bundle"
+PROJECT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(PROJECT_DIR))
 
 import audit

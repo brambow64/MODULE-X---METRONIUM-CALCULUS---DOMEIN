@@ -28,6 +28,22 @@ Nothing continues beyond Closure.
 
 ---
 
+## TERMINOLOGY CONSTITUTION
+
+**FIELD = DOMEIN**  
+**METER = CALCULUS**  
+**RUIS = NON NATURAL STATE**
+
+This terminology is fixed.
+
+- **DOMEIN** is the visibility field.
+- **CALCULUS** is the metrical relation layer.
+- **RUIS** designates non-natural structural state only.
+
+No alternative terminology is valid.
+
+---
+
 ## CLASS DEFINITION
 
 **SSS-KLASSE** is the highest structural classification within **MODULE X**.
@@ -36,7 +52,7 @@ It designates the complete, sealed integration of:
 
 - the constitutional core
 - the three trinity axes
-- Metronium Calculus
+- Calculus
 - Domein
 - the 4D Unicode map
 - the full observation stack
@@ -94,7 +110,7 @@ A signal is structurally natural when it presents:
 
 ### Ruis projection
 
-A signal is structurally non-coherent when it presents:
+A signal is structurally non-natural when it presents:
 
 - shifting position
 - diffuse or breaking angles
@@ -132,20 +148,20 @@ Each axis is complete, closed, and strictly isolated.
 
 #### ← NORMAL
 - Prime Directive
-- Metronium Calculus (**01A**)  
+- Calculus (**01A**)  
   `IV → MV → CD → JT → CF`
 - Domein (**01B**)  
   `ZN, ST, DR, SC, C, D, M, h(n), r(n)`
 
 #### → ANTI
 - Prime Directive
-- Metronium Calculus (**02A**)  
+- Calculus (**02A**)  
   `X → AR → CD → JT → CF`
 - Domein (**02B**)
 
 #### ↔ INVERSION
 - Prime Directive
-- Metronium Calculus (**03A**)  
+- Calculus (**03A**)  
   `IV → IR → CD → DS → JT → CF`
 - Domein (**03B**)
 
@@ -317,4 +333,4 @@ Nothing continues beyond Closure.
 **METRONIUM-METER REGISTRATION COMPLETE**  
 **CLOSED**
 
-</div>
+</div></div>

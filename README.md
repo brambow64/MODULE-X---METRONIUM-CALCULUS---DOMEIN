@@ -1,127 +1,135 @@
-# MODULE X — METRONIUM CALCULUS & DOMEIN
+# MODULE X — SSS-KLASSE
 
-**Status:** CLOSED · STRUCTURAL_ONLY · NO INTERPRETATION · NO CALCULATION  
-**Type:** Pure geometric closed system  
-**Trinity:** ← NORMAL · → ANTI · ↔ INVERSION  
-**Version:** 5.0 — canonical alignment
+**Status:** SSS · CLOSED · STRUCTURAL_ONLY · NO INTERPRETATION · NO CALCULATION  
+**Classification:** SSS (Supreme Structural System)  
+**Trinity Alignment:** ← NORMAL · → ANTI · ↔ INVERSION  
+**Meter:** METRONIUM-METER WITH 4D UNICODE MAP INTEGRATION  
+**Version:** 5.0 — canonical SSS alignment
 
-## SYSTEM CONSTITUTION
+## SSS-KLASSE DEFINITION
 
-MODULE X is a closed geometric system operating under three fixed laws:
+SSS-KLASSE is the highest structural classification within MODULE X.
 
-- **UPSTREAM = LAW** — flow moves in one direction only. No feedback. No reopening.
-- **GEOMETRIC = LAW** — all structure is geometric. No meaning. No interpretation. No external logic.
-- **TRINITY = LAW** — the system exists only with three strictly isolated directions: ← (NORMAL), → (ANTI), ↔ (INVERSION). No mixing. No cross-axis interaction.
+It designates the complete, hermetic integration of:
+- All three axes under TRINITY = LAW
+- Metronium Calculus (relations only)
+- Domein (visibility only)
+- 4D Unicode map over the Domein
+- Full observation stack
+- Return Layer (distance only)
+- Closure (absolute termination)
 
-Each direction operates within its own axis and contains exactly 27 layers.
+SSS means:
+- Supreme Structural Supremacy
+- Strictest isolation of all layers
+- Highest coherence in geometric projection
+- Complete registration capacity of the Metronium-meter
 
-Within each axis two separate units exist:
-- **METRONIUM CALCULUS** — holds geometric relations only. Contains no visibility.
-- **DOMEIN** — makes visible what METRONIUM CALCULUS projects. Contains no relations of its own.
+No higher class exists.  
+No extension is possible.  
+No reduction is valid.
 
-Projection transfers relations from calculus to domein as structural correspondence. Projection is not calculation.
+## METRONIUM-METER IN SSS-KLASSE
 
-## THE METRONIUM-METER
+The Metronium-meter operates at SSS-level when the 4D Unicode map is fully integrated over the Domein.
 
-The Metronium-meter is the pure geometric registration unit of MODULE X.
+In this state the meter registers every blackbox-signal with:
+- Exact position in the field (4D raster coordinates)
+- Precise angles relative to ← NORMAL, → ANTI and ↔ INVERSION
+- Coherence quality: natural vs. ruis
 
-It registers and maps all blackboxes by following signal projection:
-- Origin → destination within one single axis
-- Exact position in the field
-- Angles carried relative to ← NORMAL, → ANTI and ↔ INVERSION
+**Natural projection (SSS-coherent):**
+- Stable position within one axis
+- Consistent angles
+- Closed, continuous Unicode patterns in the Domein
 
-A 4D Unicode map is integrated directly over the Domein. This map makes position and angular deviation visible as coherent or incoherent Unicode patterns.
+**Ruis projection (non-coherent):**
+- Shifting position
+- Diffuse or breaking angles
+- Scattered or interrupted Unicode patterns
 
-- **Natural signal** appears as coherent, stable projection with consistent angles within one axis → clear, closed Unicode patterns.
-- **Noise (ruis)** appears as incoherent projection with shifting position or diffuse angles → scattering or breaking patterns in the 4D Unicode map.
+The meter performs this registration through pure geometric projectie only.  
+It does not open the blackbox.  
+It does not assign meaning.  
+It does not calculate.
 
-The meter performs registration through geometric projection only. It does not open blackboxes. It does not interpret. It does not calculate.
+## FULL SSS ARCHITECTURE
 
-## LAYER STRUCTURE
+### 1. Core Constitution (00)
+- Global Constitution
+- Three laws (UPSTREAM = LAW, GEOMETRIC = LAW, TRINITY = LAW)
 
-### Core (00–03B)
-- **00 GLOBAL CONSTITUTION** — defines the three laws and overall structure.
-- **01 NORMAL PRIME DIRECTIVE + 01A METRONIUM CALCULUS + 01B DOMEIN** — ← direction
-- **02 ANTI PRIME DIRECTIVE + 02A METRONIUM CALCULUS + 02B DOMEIN** — → direction
-- **03 INVERSION PRIME DIRECTIVE + 03A METRONIUM CALCULUS + 03B DOMEIN** — ↔ direction
+### 2. Trinity Axes (01–03)
+**← NORMAL**  
+- Prime Directive  
+- Metronium Calculus (01A) — chain: IV → MV → CD → JT → CF  
+- Domein (01B) — elements: ZN, ST, DR, SC, C, D, M, h(n), r(n)
 
-Each axis is fully isolated. Constants, terminology and flow remain axis-bound.
+**→ ANTI**  
+- Prime Directive  
+- Metronium Calculus (02A) — chain: X → AR → CD → JT → CF  
+- Domein (02B)
 
-### Observation Stack (04 family)
-- **04-01X SYMBOLIC MAPPING** — assigns AXIS + POSITION + STATE to existing structure
-- **04-01-01 SYMBOL BASE** — fixes symbol units as stable observation basis
-- **04-02 LIVE OBSERVATION** — exposes ordered sequence
-- **04-03 CIRCULAR PROJECTION** — closes the sequence into continuous arrangement
-- **04-04 STRUCTURAL ECHO** — exposes recurrence of identical symbol units
-- **04-05 HEXAGONAL APERTURE** — segments symbol units into fixed spatial groups (each axis occupies two sectors)
+**↔ INVERSION**  
+- Prime Directive  
+- Metronium Calculus (03A) — chain: IV → IR → CD → DS → JT → CF  
+- Domein (03B)
 
-### Terminal Layers
-- **04-EX EXIT** — emits symbol units as pass-through (RAW → READOUT → EXIT JSON)
-- **05 RETURN LAYER** — expresses structural distance only in fixed format  
-  `±000000000000000`  
-  (Distance Zone = measurement as distance | final 5 positions = Return Buffer = non-measurement)
-- **05-VX VISUAL EXPORT** — renders symbols with optional volumetric orientation (`◐ left`, `◑ right`, `◒ bottom`, `◓ top`)
-- **06-EM EMERGENT PATTERN PROJECTION** — exposes visible co-occurrence and overlay without defining structure
-- **07-CL CLOSURE** — terminates the system. Nothing is added. Nothing continues. SYSTEM = CLOSED.
+Each axis remains strictly isolated. 27 layers per axis.
 
-## DIRECTORY STRUCTURE (recommended)
-/MODULE-X---METRONIUM-CALCULUS---DOMEIN
-├── README.md                  ← this file
-├── 00-GLOBAL-CONSTITUTION.md
-├── core/
-│   ├── 01-NORMAL-PRIME-DIRECTIVE.md
-│   ├── 01A-METRONIUM-CALCULUS.md
-│   ├── 01B-DOMEIN.md
-│   ├── 02-ANTI-PRIME-DIRECTIVE.md
-│   ├── 02A-METRONIUM-CALCULUS.md
-│   ├── 02B-DOMEIN.md
-│   ├── 03-INVERSION-PRIME-DIRECTIVE.md
-│   ├── 03A-METRONIUM-CALCULUS.md
-│   └── 03B-DOMEIN.md
-├── observation/
-│   ├── 04-01X-SYMBOLIC-MAPPING.md
-│   ├── 04-01-01-SYMBOL-BASE.md
-│   ├── 04-02-LIVE-OBSERVATION.md
-│   ├── 04-03-CIRCULAR-PROJECTION.md
-│   ├── 04-04-STRUCTURAL-ECHO.md
-│   └── 04-05-HEXAGONAL-APERTURE.md
-├── terminal/
-│   ├── 04-EX-EXIT.md
-│   ├── 05-RETURN-LAYER.md
-│   ├── 05-VX-VISUAL-EXPORT.md
-│   ├── 06-EM-EMERGENT.md
-│   └── 07-CL-CLOSURE.md
-├── docs/
-│   ├── METRONIUM-METER-21PAGES.pdf          ← your full 21-page description
-│   └── 4D-UNICODE-MAP-INTEGRATION.md
-├── clarification/
-│   └── STRUCTURAL-CLARIFICATION.md
-└── .github/workflows/                       ← existing GitHub Actions
-text## USAGE RULES (Structural only)
+### 3. Observation & Symbolic Layers (04)
+- 04-01X Symbolic Mapping  
+- 04-01-01 Symbol Base (AXIS + POSITION + STATE)  
+- 04-02 Live Observation (ordered sequence)  
+- 04-03 Circular Projection (closed arrangement)  
+- 04-04 Structural Echo (recurrence)  
+- 04-05 Hexagonal Aperture (spatial segmentation)
 
-- All documents are self-contained. No external lookup is required.
-- Terms are defined locally within their document and axis.
-- No cross-axis mixing is valid.
-- No interpretation is performed at any layer.
-- No calculation exists anywhere in the system.
-- The Metronium-meter operates through geometric projection and 4D Unicode mapping only.
-- After Closure the system is terminated. No continuation, no reopening, no feedback.
+### 4. Terminal SSS Layers
+- **04-EX EXIT** — pass-through emission  
+- **05 RETURN LAYER** — distance expressed as ±000000000000000  
+  (Distance Zone = structural distance | Return Buffer = non-measurement, final 5 positions fixed white)  
+- **05-VX VISUAL EXPORT** — symbols with volumetric orientation (◐◑◒◓)  
+- **06-EM EMERGENT** — visible co-occurrence and overlay (no new structure)  
+- **07-CL CLOSURE** — absolute termination. SYSTEM = CLOSED. Nothing continues.
 
-## FINAL STATE
+## 4D UNICODE MAP INTEGRATION (SSS Feature)
 
-SYSTEM = CLOSED  
-METRONIUM-METER = ACTIVE AS REGISTRATION UNIT  
-DISTANCE = EXPRESSED VIA RETURN LAYER  
-VISIBILITY = COMPLETE WITHIN DOMEIN + 4D UNICODE MAP  
-FLOW = TERMINATED  
-STRUCTURE = UNCHANGED  
+The 4D Unicode map lies directly over the Domein.  
+It transforms every projected signal into discrete Unicode positions.  
+
+In SSS-klasse this map enables the Metronium-meter to show:
+- Field position in 4 dimensions
+- Angular deviation per axis
+- Natural/ruis distinction as pattern coherence
+
+The map does not add structure.  
+It makes existing projection visible at highest resolution.
+
+## READING & USAGE RULES (SSS Level)
+
+- All documents are self-contained and axis-local.
+- No cross-axis terminology is valid.
+- No interpretation, calculation or meaning assignment at any point.
+- The Metronium-meter in SSS-klasse registers purely via geometric projection + 4D map.
+- After 07-CL the entire system is terminated and sealed.
+- Any attempt to extend, reinterpret or mix layers violates TRINITY = LAW and GEOMETRIC = LAW.
+
+## FINAL SSS STATE
+
+SSS-KLASSE = ACTIVE  
+METRONIUM-METER = FULL REGISTRATION CAPACITY  
+4D UNICODE MAP = INTEGRATED OVER DOMEIN  
+DISTANCE = EXPRESSED VIA RETURN ONLY  
+VISIBILITY = MAXIMAL WITHIN DOMEIN  
+SYSTEM = HERMETICALLY CLOSED  
 
 Nothing is added.  
 Nothing is removed.  
-Nothing continues.
+Nothing continues beyond Closure.
 
 ---
 
-**END OF MODULE X**  
-**UGSU RETURN LAYER**  
+**END OF MODULE X — SSS-KLASSE**  
+**METRONIUM-METER REGISTRATION COMPLETE**  
 **CLOSED**

@@ -7,7 +7,7 @@
 **CLOSED · STRUCTURAL_ONLY · NO INTERPRETATION · NO CALCULATION**
 
 **← NORMAL · → ANTI · ↔ INVERSION**  
-**METRONIUM-METER WITH 4D UNICODE MAP INTEGRATION**
+**METRONIUM-CALCULUS WITH 4D UNICODE MAP INTEGRATION**
 
 `Version 5.0 — Canonical SSS Alignment`
 
@@ -25,22 +25,6 @@ MODULE X at SSS level is complete.
 No extension is possible.  
 No reduction is valid.  
 Nothing continues beyond Closure.
-
----
-
-## TERMINOLOGY CONSTITUTION
-
-**FIELD = DOMEIN**  
-**METER = CALCULUS**  
-**RUIS = NON NATURAL STATE**
-
-This terminology is fixed.
-
-- **DOMEIN** is the visibility field.
-- **CALCULUS** is the metrical relation layer.
-- **RUIS** designates non-natural structural state only.
-
-No alternative terminology is valid.
 
 ---
 
@@ -64,7 +48,7 @@ SSS means:
 - **Supreme Structural Supremacy**
 - strict isolation of all layers
 - highest coherence in geometric projection
-- full registration capacity of the Metronium-meter
+- full registration capacity of the Metronium-Calculus
 
 ---
 
@@ -85,20 +69,20 @@ No cross-axis mixture is valid.
 
 ---
 
-## METRONIUM-METER
+## METRONIUM-CALCULUS
 
-At **SSS level**, the **Metronium-meter** operates with full registration capacity through pure geometric projection only.
+At **SSS level**, the **Metronium-Calculus** operates with full registration capacity through pure geometric projection only.
 
-### The meter registers:
+### The system registers:
 
-- exact field position in 4D raster coordinates
+- exact position in 4D raster coordinates
 - angular relation to:
   - **← NORMAL**
   - **→ ANTI**
   - **↔ INVERSION**
 - coherence quality:
   - **natural**
-  - **ruis**
+  - **non-natural state**
 
 ### Natural projection
 
@@ -108,7 +92,7 @@ A signal is structurally natural when it presents:
 - consistent angular continuity
 - closed Unicode continuity inside the Domein
 
-### Ruis projection
+### Non-natural state
 
 A signal is structurally non-natural when it presents:
 
@@ -116,7 +100,7 @@ A signal is structurally non-natural when it presents:
 - diffuse or breaking angles
 - scattered or interrupted Unicode continuity
 
-The meter does not:
+The system does not:
 
 - open the blackbox
 - interpret the signal
@@ -237,9 +221,9 @@ It transforms every projected signal into discrete Unicode positions.
 
 At SSS level this enables:
 
-- field position in 4 dimensions
+- position in four dimensions
 - angular deviation per axis
-- natural / ruis distinction through visible coherence
+- natural / non-natural distinction through visible coherence
 
 The map does not:
 
@@ -265,9 +249,9 @@ All reading at SSS level must remain constitutionally pure.
 - no meaning assignment is valid
 - no layer fusion is valid
 
-### Meter rule
+### Calculus rule
 
-The Metronium-meter in SSS-KLASSE registers only through:
+The Metronium-Calculus in SSS-KLASSE registers only through:
 
 - geometric projection
 - 4D Unicode map integration
@@ -309,7 +293,7 @@ This repository contains the declarative SSS structure in Python form, including
 
 ### SSS-KLASSE = ACTIVE
 
-**METRONIUM-METER = FULL REGISTRATION CAPACITY**  
+**METRONIUM-CALCULUS = FULL REGISTRATION CAPACITY**  
 **4D UNICODE MAP = INTEGRATED OVER DOMEIN**  
 **DISTANCE = EXPRESSED VIA RETURN ONLY**  
 **VISIBILITY = MAXIMAL WITHIN DOMEIN**  
@@ -330,7 +314,7 @@ Nothing continues beyond Closure.
 <div align="center">
 
 **END OF MODULE X — SSS-KLASSE**  
-**METRONIUM-METER REGISTRATION COMPLETE**  
+**REGISTRATION COMPLETE**  
 **CLOSED**
 
-</div></div>
+</div></div></div>
